@@ -26,6 +26,4 @@ public class AppUserController {
     public ResponseEntity<ApiResponse<List<AppUserResponse>>> getAppUser() {
        return null;
     }
-
-
 }
